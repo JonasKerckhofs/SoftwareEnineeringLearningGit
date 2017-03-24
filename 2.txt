@@ -1,1 +1,6 @@
-Dit is texfile 2
+Textfile 2
+Dit
+is 
+gemaakt
+door
+Stijn
